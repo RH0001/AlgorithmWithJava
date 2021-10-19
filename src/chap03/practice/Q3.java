@@ -41,6 +41,7 @@ public class Q3 {
         else {
             System.out.println(key + "은(는) x[" + idx + "]에 있습니다.");
             System.out.println(idx);
+
         }
     }
 }
