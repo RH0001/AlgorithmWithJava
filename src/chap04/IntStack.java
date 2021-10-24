@@ -88,7 +88,6 @@ public class IntStack {
         else
             for (int i = 0; i < ptr; i++)
                 System.out.print(stk[i] + " 택");
-
         System.out.println();
     }
 
